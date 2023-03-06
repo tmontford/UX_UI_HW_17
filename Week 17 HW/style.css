@@ -19,11 +19,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px 10%;
+    padding: 10px 10%;
 }
 
 .logo{
     cursor: pointer;
+   
 }
 
 .nav_links{
@@ -40,7 +41,7 @@ header {
 }
 
 .nav_links li a:hover {
-    color:blue
+    color:rgba(0, 136, 169,1)
 }
 
 button{
