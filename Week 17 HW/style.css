@@ -7,6 +7,7 @@
     background-color: #426A5A;
 }
 
+
 li, a, button {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
@@ -19,12 +20,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 10%;
+    padding: 30px 10%;
 }
 
 .logo{
     cursor: pointer;
-   
+
 }
 
 .nav_links{
@@ -44,7 +45,7 @@ header {
     color:rgba(0, 136, 169,1)
 }
 
-button{
+button {
 padding: 9px 25px;
 background-color: rgba(0, 136, 169,1)
 border: none;
